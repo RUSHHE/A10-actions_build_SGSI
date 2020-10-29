@@ -1,4 +1,4 @@
-name: build_XiaoxinSGSIs
+name: miui_LAVENDER_20.10.28_Q
 
 on:
   watch:
@@ -135,5 +135,5 @@ jobs:
          if: steps.var.outputs.upload_artifact == 'true'
          uses: actions/upload-artifact@v2
          with: 
-           name: XiaoxinSGSIs
+           name: miui_LAVENDER_20.10.28_Q_LKX.zip
            path: ${{ steps.var.outputs.pack_sgsi }}
