@@ -47,7 +47,7 @@ jobs:
          with:
            repository: "xiaoxindada/SGSI-build-tool"
            latest: true
-           tag: "v1.9"
+#           tag: "v1.9"
            fileName: "SGSI-build-tool.tar"
            
        - name: Initialization environment
