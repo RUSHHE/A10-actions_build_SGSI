@@ -1,4 +1,4 @@
-name: miui_note7Pro_20.11.18_Q
+name: miui_note7_V12.0.2.0_Q
 
 on:
   watch:
@@ -135,5 +135,5 @@ jobs:
          if: steps.var.outputs.upload_artifact == 'true'
          uses: actions/upload-artifact@v2
          with: 
-           name: miui_violet_20.11.18_Q_LKX.zip
+           name: miui_HMNote7_V12.0.2.0_Q_LKX.zip
            path: ${{ steps.var.outputs.pack_sgsi }}
