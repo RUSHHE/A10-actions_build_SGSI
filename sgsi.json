@@ -1,7 +1,7 @@
 {
-  "rom_url": "http://miui.bluedt.cn/show/%E5%9B%BD%E5%86%85%E7%A8%B3%E5%AE%9A%E7%89%88%28%E6%9C%80%E6%96%B0%E7%89%88%29/RedmiNote7_MIUI12_V12.0.2.0_10.0_BlueHill_0575d47c99.zip",
-  "rom_name": "miui_hmnote7_V12.0.2.0_10.0.zip",
-  "pack_sgsi": "HMNote7_V12.0.2.0_Q_XiaoxinSGSIs_LKX.7z",
+  "rom_url": "https://cloud189-xizang-person.oos-xzls.ctyunapi.cn/PERSONCLOUD/587d0a67-0118-4b0c-99e0-1aa44cec0eb0.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-limitrate=10240&x-amz-UID=733920062&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22RedmiNote7_MIUI12_20.11.19_10.0_BlueHill_e059e19031.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=hfTSmGGPOtxtVpxBwQyd0dQMIE8%3D&x-amz-SHID=170410500&Expires=1605946114&x-amz-FSIZE=1942001972&x-amz-UFID=91323312138018215",
+  "rom_name": "miui_hmnote7_20.11.19_10.0.zip",
+  "pack_sgsi": "HMNote7_20.11.19_Q_XiaoxinSGSIs_LKX.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
