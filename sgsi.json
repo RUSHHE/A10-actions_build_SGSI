@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/20.11.18/miui_VIOLET_20.11.18_ebf4565958_10.0.zip",
-  "rom_name": "miui_violet_20.11.18_10.0.zip",
-  "pack_sgsi": "HMNote7Pro_20.11.18_Q_XiaoxinSGSIs_LKX.7z",
+  "rom_url": "http://miui.bluedt.cn/show/%E5%9B%BD%E5%86%85%E7%A8%B3%E5%AE%9A%E7%89%88%28%E6%9C%80%E6%96%B0%E7%89%88%29/RedmiNote7_MIUI12_V12.0.2.0_10.0_BlueHill_0575d47c99.zip",
+  "rom_name": "miui_hmnote7_V12.0.2.0_10.0.zip",
+  "pack_sgsi": "HMNote7_V12.0.2.0_Q_XiaoxinSGSIs_LKX.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
