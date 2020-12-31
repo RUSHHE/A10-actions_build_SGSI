@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/20.12.9/miui_LAVENDER_20.12.9_e9cdcdb88d_10.0.zip",
-  "rom_name": "miui_hmnote7_20.12.9_10.0.zip",
-  "pack_sgsi": "HMNote7_20.12.9_Q_XiaoxinSGSIs_LKX.7z",
+  "rom_url": "https://hugeota.d.miui.com/20.12.28/miui_LAVENDER_20.12.28_0e6fdce103_10.0.zip”,
+  "rom_name": "miui_hmnote7_20.12.28_10.0.zip",
+  "pack_sgsi": "HMNote7_20.12.28_Q_XiaoxinSGSIs_LKX.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
